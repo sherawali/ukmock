@@ -1,0 +1,27 @@
+{
+  "version": "2026.05.05",
+  "guides": [
+    {
+      "id": "guide_math_percent_001",
+      "subject": "Mathematics",
+      "topic": "Percentage Tricks",
+      "type": "short_trick",
+      "title": "प्रतिशत परिवर्तन शॉर्ट ट्रिक",
+      "title_en": "Percentage Change Shortcut",
+      "content": "यदि मूल्य x% बढ़े और y% घटे, तो शुद्ध परिवर्तन = x + y + (xy/100)%",
+      "content_en": "Net change after x% increase & y% decrease = x + y + (xy/100)%",
+      "example": "20% वृद्धि, 20% कमी → 20 - 20 + (20×-20)/100 = -4% (4% कमी)",
+      "tags": ["math", "percentage", "shortcut", "csat", "ukssc"]
+    },
+    {
+      "id": "guide_uk_river_001",
+      "subject": "Geography",
+      "topic": "Uttarakhand Rivers",
+      "type": "notes",
+      "title": "उत्तराखंड की प्रमुख नदियाँ",
+      "title_en": "Major Rivers of Uttarakhand",
+      "content": "गंगा (गंगोत्री), यमुना (यमनोत्री), अलकनंदा (सतोपंथ), मंदाकिनी (चौखंबा), भागीरथी, पिंडर।",
+      "tags": ["uttarakhand", "geography", "rivers", "gk"]
+    }
+  ]
+}
