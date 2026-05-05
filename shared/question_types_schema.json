@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UK Quiz Question Schema",
+  "type": "object",
+  "properties": {
+    "id": {"type": "string"},
+    "subject": {"type": "string"},
+    "topic": {"type": "string"},
+    "type": {"type": "string", "enum": ["mcq", "match", "statement_conclusion", "assertion_reason", "sequence", "fill_blank", "math_numerical"]},
+    "difficulty": {"type": "string", "enum": ["easy", "medium", "hard"]},
+    "question_text": {"type": "string"},
+    "question_text_en": {"type": "string"},
+    "options": {"type": "array", "items": {"type": "object", "properties": {"id": {"type": "string"}, "text": {"type": "string"}}}},
+    "correct_answer": {"type": "string"},
+    "explanation": {"type": "string"},
+    "explanation_en": {"type": "string"},
+    "tags": {"type": "array", "items": {"type": "string"}},
+    "year": {"type": "integer"},
+    "is_pyq": {"type": "boolean"},
+    "negative_marking": {"type": "number"},
+    "time_limit_seconds": {"type": "integer"},
+    "curator_verified": {"type": "boolean"}
+  },
+  "required": ["id", "subject", "topic", "type", "difficulty", "question_text", "correct_answer", "negative_marking"]
+}
