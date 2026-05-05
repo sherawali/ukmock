@@ -1,0 +1,31 @@
+{
+  "exam_type": "ukssc",
+  "category": "reasoning_mixed",
+  "version": "2026.05.05",
+  "last_updated": "2026-05-05T10:00:00Z",
+  "questions": [
+    {
+      "id": "ukssc_reason_stmt_001",
+      "subject": "Reasoning",
+      "topic": "Logical Reasoning",
+      "type": "statement_conclusion",
+      "difficulty": "medium",
+      "statement": "सभी पहाड़ ऊँचे हैं। कुछ ऊँचे खतरनाक हैं।",
+      "statement_en": "All mountains are high. Some high things are dangerous.",
+      "conclusions": [
+        {"id": "I", "text": "कुछ पहाड़ खतरनाक हैं"},
+        {"id": "II", "text": "सभी खतरनाक पहाड़ हैं"},
+        {"id": "III", "text": "कुछ ऊँचे पहाड़ हैं"},
+        {"id": "IV", "text": "कोई निष्कर्ष नहीं"}
+      ],
+      "correct_answer": "I",
+      "explanation": "कथन I अनुसरण करता है क्योंकि सभी पहाड़ ऊँचे हैं और कुछ ऊँचे खतरनाक हैं।",
+      "tags": ["syllogism", "logical_reasoning"],
+      "year": 2024,
+      "is_pyq": true,
+      "negative_marking": 0.25,
+      "time_limit_seconds": 90,
+      "curator_verified": true
+    }
+  ]
+}

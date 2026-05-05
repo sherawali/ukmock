@@ -1,0 +1,44 @@
+{
+  "exam_type": "ukssc",
+  "category": "general_studies",
+  "version": "2026.05.05",
+  "last_updated": "2026-05-05T10:00:00Z",
+  "questions": [
+    {
+      "id": "ukssc_gs_hindi_001",
+      "subject": "Hindi",
+      "topic": "Vocabulary",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question_text": "'अग्नि' का पर्यायवाची शब्द क्या है?",
+      "question_text_en": "What is the synonym of 'Agni'?",
+      "options": [{"id": "A", "text": "अनल"}, {"id": "B", "text": "जल"}, {"id": "C", "text": "वायु"}, {"id": "D", "text": "पृथ्वी"}],
+      "correct_answer": "A",
+      "explanation": "अग्नि के पर्यायवाची: अनल, पावक, हुताशन, वह्नि।",
+      "tags": ["hindi", "vocabulary", "synonyms"],
+      "year": 2024,
+      "is_pyq": true,
+      "negative_marking": 0.25,
+      "time_limit_seconds": 45,
+      "curator_verified": true
+    },
+    {
+      "id": "ukssc_gs_science_001",
+      "subject": "Science",
+      "topic": "Biology",
+      "type": "fill_blank",
+      "difficulty": "medium",
+      "question_text": "मनुष्य के शरीर में कुल _____ जोड़ियाँ गुणसूत्र पाई जाती हैं।",
+      "question_text_en": "Humans have _____ pairs of chromosomes.",
+      "options": [{"id": "A", "text": "21"}, {"id": "B", "text": "22"}, {"id": "C", "text": "23"}, {"id": "D", "text": "24"}],
+      "correct_answer": "C",
+      "explanation": "मनुष्य में 23 जोड़े (46) गुणसूत्र होते हैं।",
+      "tags": ["biology", "human_body", "genetics"],
+      "year": 2024,
+      "is_pyq": false,
+      "negative_marking": 0.25,
+      "time_limit_seconds": 60,
+      "curator_verified": true
+    }
+  ]
+}

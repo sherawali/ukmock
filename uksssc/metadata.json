@@ -1,0 +1,11 @@
+{
+  "exam_type": "ukssc",
+  "version": "2026.05.05",
+  "last_updated": "2026-05-05T10:00:00Z",
+  "files": ["general_studies.json", "uttarakhand_gk.json", "reasoning_mixed.json"],
+  "total_questions": 12000,
+  "etags": {"general_studies.json": "gs_xyz789", "uttarakhand_gk.json": "uk_ghi012", "reasoning_mixed.json": "reason_jkl345"},
+  "maintainer": "UK Mentor Team",
+  "license": "CC-BY-SA-4.0",
+  "changelog": [{"date": "2026-05-05", "changes": ["Initial release", "Added mixed question types"]}]
+}

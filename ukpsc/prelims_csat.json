@@ -1,0 +1,44 @@
+{
+  "exam_type": "ukpsc",
+  "paper": "prelims_csat",
+  "version": "2026.05.05",
+  "last_updated": "2026-05-05T10:00:00Z",
+  "questions": [
+    {
+      "id": "ukpsc_csat_math_001",
+      "subject": "Mathematics",
+      "topic": "Percentage",
+      "type": "math_numerical",
+      "difficulty": "medium",
+      "question_text": "एक वस्तु का मूल्य 20% बढ़ाया गया, फिर 20% घटाया गया। शुद्ध प्रतिशत परिवर्तन क्या है?",
+      "question_text_en": "Price increased by 20%, then decreased by 20%. Net % change?",
+      "options": [{"id": "A", "text": "0%"}, {"id": "B", "text": "4% कमी"}, {"id": "C", "text": "4% वृद्धि"}, {"id": "D", "text": "10% कमी"}],
+      "correct_answer": "B",
+      "explanation": "100 → 120 → 96. शुद्ध परिवर्तन = 4% कमी।",
+      "tags": ["percentage", "arithmetic"],
+      "year": 2024,
+      "is_pyq": false,
+      "negative_marking": 0.66,
+      "time_limit_seconds": 120,
+      "curator_verified": true
+    },
+    {
+      "id": "ukpsc_csat_reason_001",
+      "subject": "Reasoning",
+      "topic": "Analogy",
+      "type": "mcq",
+      "difficulty": "easy",
+      "question_text": "पुस्तक : ज्ञान :: दीपक : ?",
+      "question_text_en": "Book : Knowledge :: Lamp : ?",
+      "options": [{"id": "A", "text": "अंधेरा"}, {"id": "B", "text": "प्रकाश"}, {"id": "C", "text": "ताप"}, {"id": "D", "text": "तार"}],
+      "correct_answer": "B",
+      "explanation": "जैसे पुस्तक ज्ञान देती है, वैसे ही दीपक प्रकाश देता है।",
+      "tags": ["analogy", "verbal_reasoning"],
+      "year": 2024,
+      "is_pyq": true,
+      "negative_marking": 0.66,
+      "time_limit_seconds": 60,
+      "curator_verified": true
+    }
+  ]
+}

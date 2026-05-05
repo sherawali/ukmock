@@ -1,0 +1,11 @@
+{
+  "exam_type": "ukpsc",
+  "version": "2026.05.05",
+  "last_updated": "2026-05-05T10:00:00Z",
+  "files": ["prelims_gs.json", "prelims_csat.json"],
+  "total_questions": 15000,
+  "etags": {"prelims_gs.json": "gs_abc123", "prelims_csat.json": "csat_def456"},
+  "maintainer": "UK Mentor Team",
+  "license": "CC-BY-SA-4.0",
+  "changelog": [{"date": "2026-05-05", "changes": ["Initial release", "Added PYQ 2024"]}]
+}

@@ -1,0 +1,52 @@
+{
+  "exam_type": "ukpsc",
+  "paper": "prelims_gs",
+  "version": "2026.05.05",
+  "last_updated": "2026-05-05T10:00:00Z",
+  "questions": [
+    {
+      "id": "ukpsc_gs_hist_001",
+      "subject": "History",
+      "topic": "Modern India",
+      "type": "mcq",
+      "difficulty": "medium",
+      "question_text": "चौरी-चौरा कांड कब हुआ था?",
+      "question_text_en": "When did the Chauri Chaura incident occur?",
+      "options": [{"id": "A", "text": "1919"}, {"id": "B", "text": "1920"}, {"id": "C", "text": "1922"}, {"id": "D", "text": "1930"}],
+      "correct_answer": "C",
+      "explanation": "4 फरवरी 1922 को चौरी-चौरा कांड हुआ था।",
+      "explanation_en": "The Chauri Chaura incident occurred on 4 February 1922.",
+      "tags": ["freedom_struggle", "important_event"],
+      "year": 2024,
+      "is_pyq": true,
+      "negative_marking": 0.66,
+      "time_limit_seconds": 90,
+      "curator_verified": true
+    },
+    {
+      "id": "ukpsc_geo_ar_001",
+      "subject": "Geography",
+      "topic": "Climate",
+      "type": "assertion_reason",
+      "difficulty": "hard",
+      "assertion": "भारत में मानसून की वर्षा असमान है।",
+      "assertion_en": "Monsoon rainfall in India is uneven.",
+      "reason": "मानसून की दिशा और बाधाओं के कारण वर्षा में भिन्नता होती है।",
+      "reason_en": "Rainfall varies due to monsoon direction and obstacles.",
+      "options": [
+        {"id": "A", "text": "A और R दोनों सत्य हैं और R, A की सही व्याख्या है"},
+        {"id": "B", "text": "A और R दोनों सत्य हैं परन्तु R, A की सही व्याख्या नहीं है"},
+        {"id": "C", "text": "A सत्य है परन्तु R असत्य है"},
+        {"id": "D", "text": "A असत्य है परन्तु R सत्य है"}
+      ],
+      "correct_answer": "A",
+      "explanation": "मानसून की दिशा और पर्वतीय बाधाएँ वर्षा की असमानता का मुख्य कारण हैं।",
+      "tags": ["monsoon", "physical_geography"],
+      "year": 2024,
+      "is_pyq": false,
+      "negative_marking": 0.66,
+      "time_limit_seconds": 120,
+      "curator_verified": true
+    }
+  ]
+}
